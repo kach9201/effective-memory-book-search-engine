@@ -23,3 +23,10 @@ This app is deployed on Heroku
 
 Heroku
 https://pacific-brushlands-41037.herokuapp.com/
+
+Screenshots
+
+![Screenshot (26)](https://user-images.githubusercontent.com/116523970/236728209-28a81bee-382b-4881-99da-00ddef26b3d1.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/116523970/236728211-33977b83-702c-4db7-98c2-63b840509a92.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/116523970/236728212-6157eb50-0ad9-4b36-ba6a-ce083fc34e32.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/116523970/236728213-25905ed7-6085-4678-860b-2a5ab56d14e0.png)
